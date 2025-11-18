@@ -172,23 +172,23 @@ hobbies:
     margin-top: 20px;
   "></div>
 </div>
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">📫 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚</h2>
 
 <p align="center">
 
   <!-- LinkedIn 3D -->
   <a href="https://www.linkedin.com/in/divyangupreti2/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60px" style="margin: 13px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60px" style="margin: 10px;">
   </a>
 
   <!-- Gmail 3D -->
   <a href="mailto:upretidivyang@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60px" style="margin: 13px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60px" style="margin: 10px;">
   </a>
 
   <!-- GitHub 3D -->
   <a href="https://github.com/DivyangUGitHub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" style="margin: 13px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" style="margin: 10px;">
   </a>
 
 </p>
