@@ -62,9 +62,6 @@ hobbies:
 
 <!-- **DivyangUGitHub/DivyangUGitHub** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&layout=compact&hide_border=true&bg_color=20,0d1117,3a0d3f&title_color=bb86fc&text_color=e8d1ff&card_width=480" height="210px" style="border-radius:15px; filter: drop-shadow(0 0 10px #a855f7);" />
-</div>
 
 
 <div align="center">
