@@ -87,10 +87,6 @@ hobbies:
   <img src="https://github-readme-stats.vercel.app/api?username=DivyangUGitHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bc8cff&text_color=e8d9ff&icon_color=c084fc" style="border-radius:18px; animation: glow 2s infinite alternate;" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyangUGitHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bc8cff&text_color=e8d9ff&icon_color=c084fc" style="border-radius:18px;" />
-</div>
-
 
 
 
