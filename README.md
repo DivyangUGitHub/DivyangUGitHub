@@ -6,8 +6,11 @@
 <h3 align="center">💻 𝐀𝐈 & 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 | 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫 </h3>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z6dW10NDkwOXlxMzB6eGZhajJqajdxemZndmp0ZGYxajNhdW83MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Banner GIF"/>
+  <a href="https://pixabay.com/videos/ai-generated-cyberpunk-anime-code-270448/" target="_blank">
+    <img src="https://cdn.pixabay.com/photo/2023/01/09/14/32/ai-7709850_1280.jpg" width="100%" alt="Cyberpunk AI Video"/>
+  </a>
 </div>
+
 
 
 ---
