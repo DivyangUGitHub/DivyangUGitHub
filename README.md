@@ -2,8 +2,8 @@
 <p align="center">
 </p>
 
-<h1 align="center">𝙃𝙚𝙡𝙡𝙤! 𝙄'𝙢<span style="color:#a855f7;">𝘿𝙞𝙫𝙮𝙖𝙣𝙜 𝙐𝙥𝙧𝙚𝙩𝙞</span></h1>
-<h3 align="center">💻 𝘼𝙄 & 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝙄𝙣𝙣𝙤𝙫𝙖𝙩𝙤𝙧 | 𝙋𝙧𝙤𝙗𝙡𝙚𝙢 𝙎𝙤𝙡𝙫𝙚𝙧</h3>
+<h1 align="center">👋 Hello! I’m <span style="color:#a855f7;">Divyang Upreti</span></h1>
+<h3 align="center">💻 AI & Full-Stack Software Developer | Innovator | Problem Solver </h3>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViMWl4MzM3ZWFhdTVwcTh1bG0zODFveXVsd2Y2OXZ0dnlkMHhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" alt="Purple Glow"/>
@@ -11,12 +11,12 @@
 
 ---
 
-## 🌟 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙋𝙧𝙤𝙛𝙞𝙡𝙚!
+## 🌟 Welcome to my GitHub Profile!
 I’m passionate about building **scalable AI systems**, engineering **real-time intelligent applications**, and pushing the boundaries of **modern software development**.  
 I love turning ideas into reality 🚀
 
 ---
-## 👨🏻‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 & 𝙒𝙝𝙖𝙩 𝘿𝙧𝙞𝙫𝙚𝙨 𝙈𝙚
+## 👨🏻‍💻 About Me And What Drives Me
 ```yaml
 name: Divyang Upreti
 located_in: India
@@ -172,7 +172,7 @@ hobbies:
     margin-top: 20px;
   "></div>
 </div>
-<h2 align="center">📫 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚</h2>
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
 
