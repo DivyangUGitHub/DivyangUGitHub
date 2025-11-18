@@ -64,7 +64,7 @@ hobbies:
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=A855F7&center=true&vCenter=true&width=900&lines=⚡+Divyang+Upreti's+Tech+Universe+⚡;AI+Developer+|+Full+Stack+Engineer+|+Innovator;Welcome+to+my+GitHub+Dashboard!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=A855F7&center=true&vCenter=true&width=900&lines=⚡+Divyang+Upreti's+Tech+Universe+⚡;AI+Developer+|+Full+Stack+Software+Engineer+|+Innovator;Hey+Welcome+to+my+GitHub+Dashboard!" />
 </div>
 
 
