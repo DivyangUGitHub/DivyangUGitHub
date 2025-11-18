@@ -178,17 +178,17 @@ hobbies:
 
   <!-- LinkedIn 3D -->
   <a href="https://www.linkedin.com/in/divyangupreti2/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60px" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px" style="margin: 10px;">
   </a>
 
   <!-- Gmail 3D -->
   <a href="mailto:upretidivyang@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60px" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45px" style="margin: 10px;">
   </a>
 
   <!-- GitHub 3D -->
   <a href="https://github.com/DivyangUGitHub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" style="margin: 10px;">
   </a>
 
 </p>
