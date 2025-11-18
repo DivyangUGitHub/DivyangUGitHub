@@ -67,6 +67,36 @@ hobbies:
 </div>
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=A855F7&center=true&vCenter=true&width=900&lines=⚡+Divyang+Upreti's+Tech+Universe+⚡;AI+Developer+|+Full+Stack+Engineer+|+Innovator;Welcome+to+my+3D+GitHub+Dashboard!" />
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=fafafa&area=true&area_color=8b5cf6&hide_border=true" width="98%">
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&layout=compact&theme=radical&bg_color=10,3f0071,000000&hide_border=true&title_color=ff00ff&text_color=f5d0ff&card_width=460" height="210px"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyangUGitHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bc8cff&text_color=e8d9ff&icon_color=c084fc" style="border-radius:18px; animation: glow 2s infinite alternate;" />
+</div>
+
+<style>
+@keyframes glow {
+  from { box-shadow: 0 0 5px #a855f7; }
+  to { box-shadow: 0 0 25px #a855f7; }
+}
+</style>
 
 
 
