@@ -1,6 +1,5 @@
 <!--  Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/1Zf1Z7b.gif" width="100%" />
 </p>
 
 <h1 align="center">👋 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚! 𝙄'𝙢 <span style="color:#a855f7;">𝘿𝙞𝙫𝙮𝙖𝙣𝙜 𝙐𝙥𝙧𝙚𝙩𝙞</span></h1>
