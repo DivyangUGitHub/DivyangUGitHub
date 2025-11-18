@@ -5,11 +5,9 @@
 <h1 align="center">👋 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦<span style="color:#a855f7;">𝐃𝐢𝐯𝐲𝐚𝐧𝐠 𝐔𝐩𝐫𝐞𝐭𝐢</span></h1>
 <h3 align="center">💻 𝐀𝐈 & 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 | 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫 </h3>
 
-
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNibXd6ZW14NTA5djdzOWViMWJ6amhwb3dkdjd1cHk1cDg4bWViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQJ0XWXA2WOuCADKmK/giphy.gif" 
-       width="100%" 
-       alt="Cyberpunk GIF"/>
+       width="45%" />
 </div>
 
 
