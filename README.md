@@ -13,7 +13,7 @@
 
 ## 🌟 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
 I’m passionate about building **scalable AI systems**, engineering **real-time intelligent applications**, and pushing the boundaries of **modern software development**.  
-Whether it's AI Safety Systems, Voice Assistants, or MERN Apps — I love turning ideas into reality 🚀
+I love turning ideas into reality 🚀
 
 ---
 ## 👨🏻‍💻 𝗔 𝗟𝗶𝘁𝘁𝗹𝗲 𝗕𝗶𝘁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
