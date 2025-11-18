@@ -172,5 +172,20 @@ hobbies:
     margin-top: 20px;
   "></div>
 </div>
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyangupreti2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:upretidivyang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dd4b39?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/DivyangUGitHub">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 
