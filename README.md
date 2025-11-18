@@ -20,7 +20,7 @@ Whether it's AI Safety Systems, Voice Assistants, or MERN Apps — I love turnin
 ```yaml
 name: Divyang Upreti
 located_in: India
-current_role: AI & Software Developer
+current_role: AI & Full-Stack Software Developer
 
 education:
   - Bachelor's in Computer Science — SRM University (2023–2027)
@@ -41,7 +41,7 @@ technical_background:
   - Experience with React, Next.js, Spring Boot, FastAPI, TensorFlow, PyTorch
 
 currently_learning:
-  - Advanced AI Systems
+  - Advanced AI|ML Systems, LLMs, MLOps & Machine Learning
   - Docker, Next.js, Spring Boot
   - Blockchain Development (Solidity, Smart Contracts, Web3.js)
 
@@ -52,7 +52,7 @@ goals_2025:
 
 hobbies:
   - Coding
-  - Exploring AI & Blockchain Tools
+  - Exploring AI|ML & Blockchain Tools
   - Music
   - UI/UX & Tech Research
 
@@ -60,20 +60,7 @@ hobbies:
 
 
 
-<!--
-**Manvi0408/Manvi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+<!-- **DivyangUGitHub/DivyangUGitHub** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 
 
 
