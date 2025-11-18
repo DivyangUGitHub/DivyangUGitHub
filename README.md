@@ -16,7 +16,7 @@ I’m passionate about building **scalable AI systems**, engineering **real-time
 I love turning ideas into reality 🚀
 
 ---
-## 👨🏻‍💻 𝗔 𝗟𝗶𝘁𝘁𝗹𝗲 𝗕𝗶𝘁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+## 👨🏻‍💻 𝙒𝙝𝙤 𝙄 𝘼𝙢 & 𝙒𝙝𝙖𝙩 𝘿𝙧𝙞𝙫𝙚𝙨 𝙈𝙚
 ```yaml
 name: Divyang Upreti
 located_in: India
