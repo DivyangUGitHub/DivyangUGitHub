@@ -6,10 +6,11 @@
 <h3 align="center">💻 𝐀𝐈 & 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 | 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫 </h3>
 
 <div align="center">
-  <a href="https://pixabay.com/videos/ai-generated-cyberpunk-anime-code-270448/" target="_blank">
-    <img src="https://cdn.pixabay.com/photo/2023/01/09/14/32/ai-7709850_1280.jpg" width="100%" alt="Cyberpunk AI Video"/>
-  </a>
+  <video src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/main/270448_medium.mp4" 
+         width="100%" autoplay loop muted playsinline>
+  </video>
 </div>
+
 
 
 
