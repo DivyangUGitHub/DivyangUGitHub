@@ -187,9 +187,9 @@ hobbies:
   </a>
 
   <!-- GitHub 3D -->
-  <a href="https://github.com/DivyangUGitHub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" style="margin: 10px;">
-  </a>
+<a href="https://github.com/DivyangUGitHub" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55px" style="margin: 10px; filter: grayscale(100%);">
+</a>
 
 </p>
 
