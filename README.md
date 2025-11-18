@@ -71,9 +71,8 @@ hobbies:
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=high-contrast&bg_color=0d1117&color=a855f7&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="98%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&theme=dracula&layout=compact&hide_border=true&title_color=f92672&text_color=f8f8f2&bg_color=282a36" height="200px"/>
 </div>
-
 
 
 
