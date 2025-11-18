@@ -175,17 +175,21 @@ hobbies:
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyangupreti2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="mailto:upretidivyang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dd4b39?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://github.com/DivyangUGitHub">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
 
+  <!-- LinkedIn 3D -->
+  <a href="https://www.linkedin.com/in/divyangupreti2/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60px" style="margin: 15px;">
+  </a>
+
+  <!-- Gmail 3D -->
+  <a href="mailto:upretidivyang@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60px" style="margin: 15px;">
+  </a>
+
+  <!-- GitHub 3D -->
+  <a href="https://github.com/DivyangUGitHub" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" style="margin: 15px;">
+  </a>
+
+</p>
 
