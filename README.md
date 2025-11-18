@@ -2,21 +2,23 @@
 <p align="center">
 </p>
 
-<h1 align="center">👋 Hello! I’m <span style="color:#a855f7;">Divyang Upreti</span></h1>
-<h3 align="center">💻 AI & Full-Stack Software Developer | Innovator | Problem Solver </h3>
+<h1 align="center">👋 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦<span style="color:#a855f7;">𝐃𝐢𝐯𝐲𝐚𝐧𝐠 𝐔𝐩𝐫𝐞𝐭𝐢</span></h1>
+<h3 align="center">💻 𝐀𝐈 & 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 | 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫 </h3>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViMWl4MzM3ZWFhdTVwcTh1bG0zODFveXVsd2Y2OXZ0dnlkMHhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" alt="Purple Glow"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z6dW10NDkwOXlxMzB6eGZhajJqajdxemZndmp0ZGYxajNhdW83MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Banner GIF"/>
 </div>
+
 
 ---
 
-## 🌟 Welcome to my GitHub Profile!
+## 🌟 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 !
 I’m passionate about building **scalable AI systems**, engineering **real-time intelligent applications**, and pushing the boundaries of **modern software development**.  
 I love turning ideas into reality 🚀
 
 ---
-## 👨🏻‍💻 About Me And What Drives Me
+## 👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 & 𝐖𝐡𝐚𝐭 𝐃𝐫𝐢𝐯𝐞𝐬 𝐌𝐞
+
 ```yaml
 name: Divyang Upreti
 located_in: India
@@ -172,7 +174,7 @@ hobbies:
     margin-top: 20px;
   "></div>
 </div>
-<h2 align="center">📫 Connect With Me 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞</h2>
+<h2 align="center">📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞</h2>
 
 <p align="center">
 
