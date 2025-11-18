@@ -7,9 +7,10 @@
 
 <div align="center">
   <video src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/main/270448_medium.mp4" 
-         width="100%" autoplay loop muted playsinline>
+         width="100%" controls>
   </video>
 </div>
+
 
 
 
