@@ -188,7 +188,7 @@ hobbies:
 
   
 <a href="https://github.com/DivyangUGitHub" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55px" style="margin: 10px; filter: brightness(0) invert(1);">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="55px" style="margin: 10px; filter: invert(100%);">
 </a>
 
 
