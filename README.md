@@ -1,136 +1,59 @@
-## # 👋 Hello, My Name is Manvi Yadav  
-### 💻 Software Developer
-
-
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViMWl4MzM3ZWFhdTVwcTh1bG0zODFveXVsd2Y2OXZ0dnlkMHhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" alt="Purple Glow GIF">
-</div>
-
-
-
-
-
-
-
-Welcome to my GitHub profile!  
-I’m passionate about building scalable, impactful solutions and exploring the world of software engineering 🚀
-
-## 👨🏻‍💻  A Little Bit About Me and My Interests  
-```yaml
-name: Manvi Yadav  
-located_in: India  
-current_job: Software Developer  
-education:  
-     - 3rd Year, Bachelor's in Computer Science — SRM University  
-
-
-fields_of_interests:  
-  - Web Development  
-  - Machine Learning  
-  - Data Science  
-  - UI/UX Design  
-  - DevOps  
-  - Open Source  
-
-technical_background:  
-  - Full Stack Developer  
-  - Contributor in Girlscript Summer of Code & Hacktoberfest  
-  - Competitive Programmer  
-  - Intern - Software Development  
-
-currently_learning:  
-  - Docker, React, and Next.js  
-
-2025 Goals:  
-  - Build impactful projects and contribute more to open source  
-  - Learn new technologies and frameworks  
-
-hobbies:  
-  - Coding  
-  - Reading Tech Blogs  
-  - Music  
-  - Design
-```
-
-
-
-<!--
-**DivyangUGitHub/DivyangUGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi0408&theme=radical&hide_border=false&layout=compact&langs_count=8&hide=python,java,c%2B%2B,c&exclude_repo=linux-kernel,assembly-projects" height="180em" alt="Top Languages"/></div>
-
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvi0408&theme=github-dark&bg_color=0d1117&color=9e77c9&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="95%">
-</div>
-
-
-
-
-
-
-
-
-
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" al="js" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="php" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="php" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="php" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="github" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json" width="45" height="45" />    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  alt="tailwindcss" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  alt="mongodb" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"   alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="vite" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
+<!--  Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/1Zf1Z7b.gif" width="100%" />
 </p>
+
+<h1 align="center">👋 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚! 𝙄'𝙢 <span style="color:#a855f7;">𝘿𝙞𝙫𝙮𝙖𝙣𝙜 𝙐𝙥𝙧𝙚𝙩𝙞</span></h1>
+<h3 align="center">💻 𝘼𝙄 & 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝙄𝙣𝙣𝙤𝙫𝙖𝙩𝙤𝙧 | 𝙋𝙧𝙤𝙗𝙡𝙚𝙢 𝙎𝙤𝙡𝙫𝙚𝙧</h3>
+
+
 <div align="center">
-  <div style="
-    width: 90%;
-    height: 5px;
-    background: #a855f7;
-    box-shadow: 0 0 15px 3px #a855f7;
-    border-radius: 10px;
-    margin-top: 20px;
-  "></div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViMWl4MzM3ZWFhdTVwcTh1bG0zODFveXVsd2Y2OXZ0dnlkMHhlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" alt="Purple Glow"/>
 </div>
 
+---
 
+## 🌟 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!  
+I’m passionate about building **scalable AI systems**, engineering **real-time intelligent applications**, and pushing the boundaries of **modern software development**.  
+Whether it's AI Safety Systems, Voice Assistants, or MERN Apps — I love turning ideas into reality 🚀
 
+---
 
+## 👨🏻‍💻  𝗔 𝗟𝗶𝘁𝘁𝗹𝗲 𝗕𝗶𝘁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲  
+```yaml
+name: Divyang Upreti
+located_in: India
+current_role: AI & Full-Stack Developer
+education:
+  - Bachelor's in Computer Science — SRM University (2023–2027)
 
+fields_of_interests:
+  - Artificial Intelligence
+  - Full-Stack Development
+  - Cloud & DevOps
+  - Machine Learning
+  - Real-Time Systems
+  - Open Source Contribution
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manvi0408&theme=dark&hide_border=true)](https://git.io/streak-stats)
+technical_background:
+  - Built SHEild — AI-powered Women Safety System (Real-time Alerts, Live Tracking)
+  - Created Spark AI — Voice Assistant with STT/TTS + OpenAI
+  - Developed TOMATO — MERN Food Ordering System (Stripe, JWT, Admin Dashboard)
+  - Experience with React, Next.js, Spring Boot, FastAPI, TensorFlow, PyTorch
+
+currently_learning:
+  - Advanced AI Systems, Docker, Next.js, Spring Boot
+
+goals_2025:
+  - Build more AI-driven products
+  - Become an expert in scalable backend architectures
+  - Contribute deeply to open source
+
+hobbies:
+  - Coding
+  - Exploring AI Tools
+  - Music
+  - UI/UX & Tech Research
+
 
 
