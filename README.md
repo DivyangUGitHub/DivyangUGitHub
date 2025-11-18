@@ -183,7 +183,7 @@ hobbies:
 
 
   <a href="mailto:upretidivyang@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45px" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50px" style="margin: 10px;">
   </a>
 
   
