@@ -64,14 +64,14 @@ hobbies:
 
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi0408&theme=radical&hide_border=false&layout=compact&langs_count=8&hide=python,java,c%2B%2B,c&exclude_repo=linux-kernel,assembly-projects" height="180em" alt="Top Languages"/></div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&theme=radical&hide_border=false&layout=compact&langs_count=8&hide=python,java,c%2B%2B,c&exclude_repo=linux-kernel,assembly-projects" height="180em" alt="Top Languages"/></div>
 
 
 
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvi0408&theme=github-dark&bg_color=0d1117&color=9e77c9&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=github-dark&bg_color=0d1117&color=9e77c9&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="95%">
 </div>
 
 
