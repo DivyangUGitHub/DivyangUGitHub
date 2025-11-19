@@ -9,7 +9,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NjMmwxZnlkYjB2Y2NoanNpNjN4N2c0OW5qaHk2dTBxYm01dDFibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Banner GIF"/>
 </div>
 
-
+<div align="left">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NjMmwxZnlkYjB2Y2NoanNpNjN4N2c0OW5qaHk2dTBxYm01dDFibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tlbjN2NGhoNno4MHVoZG4xYTVsY28yc2EyYXpiYTZvZjU0d256aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)" width="30%" alt="Banner GIF"/>
+</div>
 
 
 ---
