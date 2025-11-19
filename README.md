@@ -97,121 +97,124 @@ hobbies:
 
 <div align="center">
 
-## 🚀 **Languages, Tools & Technologies**
-✨ *A complete snapshot of my technical ecosystem — from development to deployment.*
+## 🚀 <b>Languages, Tools & Technologies</b>
+✨ <i>A complete 3D-style snapshot of my technical ecosystem.</i>
+
+<style>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 18px;
+    padding: 20px;
+  }
+
+  .tech-card {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(8px);
+    border-radius: 15px;
+    padding: 18px;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.4);
+    transition: 0.3s ease-in-out;
+    border: 1px solid rgba(255,255,255,0.15);
+  }
+
+  .tech-card:hover {
+    transform: translateY(-6px) scale(1.05);
+    box-shadow: 0px 8px 25px rgba(0,0,0,0.6);
+  }
+
+  .tech-card img {
+    width: 45px;
+  }
+
+  .tech-title {
+    font-size: 15px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #fff;
+  }
+</style>
 
 ---
 
-### 🧠 **Core Languages**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-</p>
+## 🧠 **3D Tech Stack Table**
 
----
+<div class="tech-grid">
 
-### 🎨 **Frontend Development**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
-</p>
+  <!-- Core Languages -->
+  <div class="tech-card"><div class="tech-title">Python</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Java</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">JavaScript</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">TypeScript</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">C++</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">PHP</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></div>
 
----
+  <!-- Frontend -->
+  <div class="tech-card"><div class="tech-title">HTML5</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">CSS3</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">React</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Next.js</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Vite</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Bootstrap</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Redux</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></div>
 
-### ⚙️ **Backend & Frameworks**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45"/>
-</p>
+  <!-- Backend -->
+  <div class="tech-card"><div class="tech-title">Node.js</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></div>
+  <div class="tech-card"><div class="tech-title">Express</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">FastAPI</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">GraphQL</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"></div>
 
----
+  <!-- Databases -->
+  <div class="tech-card"><div class="tech-title">MongoDB</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></div>
+  <div class="tech-card"><div class="tech-title">MySQL</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></div>
+  <div class="tech-card"><div class="tech-title">Oracle DB</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">PostgreSQL</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">SQLite</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Supabase</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></div>
 
-### 🗄️ **Databases**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/>
-</p>
+  <!-- Cloud -->
+  <div class="tech-card"><div class="tech-title">Docker</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Kubernetes</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></div>
+  <div class="tech-card"><div class="tech-title">Azure</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Google Cloud</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Heroku</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"></div>
 
----
+  <!-- AI/ML -->
+  <div class="tech-card"><div class="tech-title">TensorFlow</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">PyTorch</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">NumPy</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Pandas</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">OpenCV</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></div>
 
-### ☁️ **DevOps & Cloud**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45"/>
-</p>
+  <!-- Testing -->
+  <div class="tech-card"><div class="tech-title">JUnit</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Jest</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></div>
+  <div class="tech-card"><div class="tech-title">PyTest</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Selenium</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"></div>
 
----
+  <!-- Tools -->
+  <div class="tech-card"><div class="tech-title">VS Code</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">IntelliJ</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">PyCharm</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">GitHub</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Git</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></div>
 
-### 🤖 **AI / ML Tools**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
-</p>
+  <!-- UI/UX -->
+  <div class="tech-card"><div class="tech-title">Figma</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Canva</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></div>
 
----
+  <!-- OS -->
+  <div class="tech-card"><div class="tech-title">Linux</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></div>
+  <div class="tech-card"><div class="tech-title">Ubuntu</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></div>
+  <div class="tech-card"><div class="tech-title">Windows</div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></div>
 
-### 🧪 **Testing Frameworks**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
-</p>
+</div>
 
----
-
-### 🧰 **Tools & IDEs**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</p>
-
----
-
-### 🎨 **UI / UX Tools**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
-</p>
-
----
-
-### 🖥️ **Operating Systems**
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-</p>
-
----
-
+<br>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" width="120"/>
 
 </div>
+
 
 <div align="center">
   <div style="
