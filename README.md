@@ -119,7 +119,7 @@ hobbies:
   
 <a href="https://github.com/DivyangUGitHub" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="55px" style="margin: 10px;">
-</a> -->
+</a> 
 
 
 
