@@ -1,5 +1,45 @@
 <!-- Banner -->
+<!-- ===================== HERO INTRO ===================== -->
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hey+there!;I'm+Divyang+Upreti;Full+Stack+Developer+🚀;AI+%7C+Web+%7C+Open+Source"
+    alt="Typing SVG"
+  />
+</h1>
+
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656964-3f77dce8-5f41-4bb6-9e98-0c2d0c7b8b68.gif" width="70"/>
+</p>
+
+<h3 align="center">
+  💻 Web Developer • 🤖 AI Enthusiast • 🚀 Hackathon Builder • 🌍 Open Source
+</h3>
+
+---
+
+<!-- ===================== 3D EFFECT BADGES ===================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Code_Addict-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/⚡_Problem_Solver-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <img src="https://img.shields.io/badge/🚀_Hackathon_Lover-000000?style=for-the-badge&logo=devpost&logoColor=4CAF50"/>
+</p>
+
+---
+
+<!-- ===================== NEON DIVIDER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+<div align="center">
+<!-- <p align="center">
 </p>
 
 <h1 align="center">👋 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦<span style="color:#a855f7;">𝐃𝐢𝐯𝐲𝐚𝐧𝐠 𝐔𝐩𝐫𝐞𝐭𝐢</span></h1>
@@ -14,7 +54,7 @@
 
 ## 🌟 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 !
 I’m passionate about building **scalable AI systems**, engineering **real-time intelligent applications**, and pushing the boundaries of **modern software development**.  
-I love turning ideas into reality 🚀
+I love turning ideas into reality 🚀 -->
 
 ---
 ## 👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 & 𝐖𝐡𝐚𝐭 𝐃𝐫𝐢𝐯𝐞𝐬 𝐌𝐞
