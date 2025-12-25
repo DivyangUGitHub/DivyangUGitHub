@@ -1,62 +1,5 @@
-<!-- ===================== HERO SECTION ===================== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Divyang%20Upreti&fontSize=60&fontAlignY=40&desc=AI%20%7C%20Full-Stack%20Engineer%20%7C%20Innovator&descAlignY=60&animation=twinkling" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=⚡+Welcome+to+my+3D+Tech+Universe+⚡;AI+Developer+%7C+Full-Stack+Engineer;Building+Future-Ready+Systems;Turning+Ideas+Into+Reality" />
-
-</div>
-
----
-
-<div align="center">
-<img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="95%" />
-</div>
-
----
-
-## 🧬 ABOUT ME
-
-```yaml
-Name: Divyang Upreti
-Location: India
-Education: B.Tech CSE — SRM University (2023–2027)
-
-Roles:
-  - AI Engineer
-  - Full-Stack Software Developer
-
-Expertise:
-  - Artificial Intelligence & Machine Learning
-  - Scalable Backend Systems
-  - Real-Time Applications
-  - Cloud & DevOps
-  - Blockchain & Web3
-
-Major Projects:
-  - SHEild — AI-powered Women Safety System
-  - Spark AI — Voice Assistant (STT + TTS + OpenAI)
-  - TOMATO — MERN Food Ordering Platform
-  - Legal & Automation AI Systems
-
-2025 Goals:
-  - Build production-grade AI platforms
-  - Master scalable architectures
-  - Contribute to open source
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e30-c6d8-4f89-9f79-85f7b6b3e4b1.gif" width="85%"/> </div>
-🧠 GITHUB STATS (3D EFFECT)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DivyangUGitHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=c084fc" height="200"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyangUGitHub&theme=radical&hide_border=true" height="200"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&layout=compact&theme=radical&hide_border=true&card_width=500"/> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=fafafa&area=true&hide_border=true" width="95%"/> </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/> </div>
-🛠️ LANGUAGES • TOOLS • TECHNOLOGIES
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,php,html,css,react,next,node,express,mongodb,mysql,postgres,docker,kubernetes,tensorflow,pytorch,git,github,linux&theme=dark" /> </div>
-<div align="center"> <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="70%"/> </div>
-🌐 CONNECT WITH ME
-<div align="center"> <a href="https://www.linkedin.com/in/divyangupreti2/"> <img src="https://img.shields.io/badge/LinkedIn-Divyang%20Upreti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:upretidivyang@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/DivyangUGitHub"> <img src="https://img.shields.io/badge/GitHub-DivyangUGitHub-181717?style=for-the-badge&logo=github"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer&text=🚀%20Building%20the%20Future%20with%20AI&fontSize=30"/> </div> ```
-
 <!-- Banner -->
-<!-- <p align="center">
+<p align="center">
 </p>
 
 <h1 align="center">👋 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦<span style="color:#a855f7;">𝐃𝐢𝐯𝐲𝐚𝐧𝐠 𝐔𝐩𝐫𝐞𝐭𝐢</span></h1>
@@ -119,10 +62,10 @@ hobbies:
 
 
 
-<!-- **DivyangUGitHub/DivyangUGitHub** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
+**DivyangUGitHub/DivyangUGitHub** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=A855F7&center=true&vCenter=true&width=900&lines=⚡+Divyang+Upreti's+Tech+Universe+⚡;AI+Developer+|+Full+Stack+Software+Engineer+|+Innovator;Hey+Welcome+to+my+GitHub+Dashboard!" />
 </div>
 
@@ -155,7 +98,7 @@ hobbies:
 ## 🚀 <b>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬, 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬</b>
 <p align="center"> <!-- Core Languages --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/> <!-- Web Technologies --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/> <!-- Databases --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/> <!-- DevOps & Cloud --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45"/> <!-- AI/ML Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/> <!-- Testing Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="45"/> <!-- Tools & IDEs --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <!-- UI/UX Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/> <!-- Operating Systems --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/> <!-- Extra Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/> </p>
 
-<!-- <div align="center">
+<div align="center">
   <div style="
     width: 90%;
     height: 5px;
@@ -186,7 +129,7 @@ hobbies:
 
 
 
-<!-- </p> -->
+</p> 
 
 
 
