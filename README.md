@@ -3,19 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=800&height=100&lines=Hey+there%2C+I'm+Divyang+Upreti;AI%2FML+%26+Software+Developer;Innovator+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<h1 align="center" style="font-family: 'Playfair Display', serif; color: #000000; letter-spacing: 2px;">
-  👋 Hey there, I'm <span style="font-family: 'Playfair Display', serif; font-weight: 700; color: #000000; text-decoration: underline; text-underline-offset: 8px;">Divyang Upreti</span>
-</h1>
-
-<h3 align="center" style="font-family: 'Cormorant Garamond', serif; color: #333333; font-weight: 300; letter-spacing: 3px; font-size: 20px;">
-  ✦ AI/ML & Software Developer ✦<br>
-  <span style="font-size: 16px; color: #666666;">Innovator | Problem Solver</span>
-</h3>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NjMmwxZnlkYjB2Y2NoanNpNjN4N2c0OW5qaHk2dTBxYm01dDFibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 20px 0;"/>
+  <img src="7ee09878-6307-4f86-9a1b-a7e1630bcc0e.png" width="100%" height="300px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
-
 
 ---
 
