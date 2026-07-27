@@ -1,14 +1,18 @@
 <!-- Banner -->
 <!-- <div align="center">
-  <img src="cc01473e-7bab-4f0d-a1b5-b70db3461546.png" width="100%" height="300px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
-</div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=800&height=100&lines=Hey+there%2C+I'm+Divyang+Upreti;AI%2FML+%26+Software+Developer;Innovator+%7C+Problem+Solver" alt="Typing SVG" />
-</p> -->
-
-
-<div align="center">
   <img src="pin-on-pins-by-you-hd-auto-.gif" width="100%" height="290px" alt="Anime GIF" style="filter: grayscale(100%); border-radius: 12px;"/>
+</div> -->
+
+<!-- Dark Background Banner -->
+<!-- Left Aligned Banner -->
+<div align="left" style="background: #000000; padding: 20px 30px; border-radius: 12px; margin: 10px 0;">
+  <p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=500&color=FFFFFF&center=false&vCenter=true&width=700&height=80&lines=Hey+there%2C+I'm+Divyang+Upreti;AI%2FML+%26+Software+Developer;Innovator+%7C+Problem+Solver" alt="Typing SVG" />
+  </p>
+</div>
+
+ <div align="center">
+  <img src="cc01473e-7bab-4f0d-a1b5-b70db3461546.png" width="100%" height="300px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
 
 ---
