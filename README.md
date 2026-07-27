@@ -11,7 +11,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=500&color=FFFFFF&center=false&vCenter=true&width=700&height=80&lines=Hey+there%2C+I'm+Divyang+Upreti;AI%2FML+%26+Software+Developer;Innovator+%7C+Problem+Solver" alt="Typing SVG" />
   </p>
 </div> -->
+<!-- ====== PROFILE CARD ====== -->
 
+<div align="center">
+  <img src="assets/profile-card.svg" width="100%" alt="Divyang Upreti Profile Card" style="border-radius: 12px; margin: 20px 0;"/>
+</div>
  <div align="center">
   <img src="cc01473e-7bab-4f0d-a1b5-b70db3461546.png" width="100%" height="300px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
