@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="7ee09878-6307-4f86-9a1b-a7e1630bcc0e.png" width="100%" height="300px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
+  <img src="7ee09878-6307-4f86-9a1b-a7e1630bcc0e.png" width="100%"  alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
 
 ---
