@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="pin-on-pins-by-you-hd-auto-.gif" width="100%" height="400px" alt="Anime GIF" style="filter: grayscale(100%); border-radius: 12px;"/>
+  <img src="pin-on-pins-by-you-hd-auto-.gif" width="100%" height="290px" alt="Anime GIF" style="filter: grayscale(100%); border-radius: 12px;"/>
 </div>
 
 ---
