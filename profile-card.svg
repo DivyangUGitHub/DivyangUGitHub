@@ -1,5 +1,5 @@
 <svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>Alex Rivera — Developer Profile (Black &amp; White)</title>
+<title>Divyang Upreti — Developer Profile (Black &amp; White)</title>
 <defs>
   <clipPath id="canvasClip"><rect x="0" y="0" width="1180" height="610" rx="26"/></clipPath>
 
@@ -149,7 +149,7 @@
       <g opacity="0">
         <animate attributeName="opacity" attributeType="XML" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2;0.4;0.6;0.8;1" values="1;0;0;0;0;1"/>
         <clipPath id="clip0"><rect x="512" y="160" width="0" height="30"><animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0;0.1333;1" values="0;0;216;216"/></rect></clipPath>
-        <text x="512" y="183" clip-path="url(#clip0)">Frontend Engineer</text>
+        <text x="512" y="183" clip-path="url(#clip0)">AI/ML & Software Developer</text>
         <rect x="512" y="163" width="9" height="20" fill="#FFFFFF">
           <animate attributeName="x" dur="12s" repeatCount="indefinite" keyTimes="0;0;0.1333;1" values="512;512;728;728"/>
           <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
