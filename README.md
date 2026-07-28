@@ -22,13 +22,95 @@
   <img src="cc01473e-7bab-4f0d-a1b5-b70db3461546.png" width="100%" height="300px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
 
----
 
 ## 🌟 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 !
 I’m passionate about building **scalable AI systems**, engineering **real-time intelligent applications**, and pushing the boundaries of **modern software development**.  
 I love turning ideas into reality 🚀
 
----
+
+<h2>🧠 About Me</h2>
+
+<table>
+<tr>
+
+<td width="32%" align="center">
+
+<img src="./assets/profile.png" width="260">
+
+</td>
+
+<td width="68%" valign="top">
+
+<h3>Hey there! I'm <b>Divyang Upreti</b></h3>
+
+I'm an AI/ML Engineer and Full Stack Developer passionate about building intelligent software, scalable backend systems and modern web applications.
+
+By day, I'm learning new technologies and building real-world projects.
+
+By night, you'll usually find me experimenting with AI, LLMs, RAG systems, Blockchain or contributing to open-source projects.
+
+### 🚀 Current Focus
+
+• Artificial Intelligence & Machine Learning
+
+• Full Stack Development
+
+• LLMs & RAG Systems
+
+• Cloud & DevOps
+
+• Software Engineering
+
+</td>
+
+</tr>
+</table>
+
+<h2 align="left">✦ About Me</h2>
+
+<table>
+<tr>
+
+<td width="34%" align="center">
+
+<img src="./assets/profile.png" width="250">
+
+</td>
+
+<td width="66%" valign="top">
+
+<h3>
+Hey, I'm <b>Divyang Upreti</b> 👋
+</h3>
+
+<p>
+
+AI/ML Engineer • Full Stack Developer • Problem Solver
+
+<br><br>
+
+Building intelligent software that solves real-world problems.
+
+Passionate about AI, scalable backend systems, modern web technologies and creating beautiful developer experiences.
+
+<br><br>
+
+<b>Currently Exploring</b>
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 LLMs • RAG • AI Agents
+- ⚡ Full Stack Engineering
+- ☁️ Cloud & DevOps
+- 🚀 Open Source
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
 ## 👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 & 𝐖𝐡𝐚𝐭 𝐃𝐫𝐢𝐯𝐞𝐬 𝐌𝐞
 
 ```yaml
