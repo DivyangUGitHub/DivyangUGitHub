@@ -28,7 +28,7 @@ I’m passionate about building **scalable AI systems**, engineering **real-time
 I love turning ideas into reality 🚀
 
 
-<h2>🧠 About Me</h2>
+<!-- <h2>🧠 About Me</h2>
 
 <table>
 <tr>
@@ -64,44 +64,45 @@ By night, you'll usually find me experimenting with AI, LLMs, RAG systems, Block
 </td>
 
 </tr>
-</table>
+</table> -->
 
-<h2 align="left">✦ About Me</h2>
+<h1 align="center"><b>✦ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ✦</b></h1>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="34%" align="center">
+<td width="38%" align="center" valign="top">
 
-<img src="./assets/profile.png" width="250">
+<img src="pin-on-gambar-anime-hd-auto-.gif" width="330" alt="Anime GIF"/>
 
 </td>
 
-<td width="66%" valign="top">
+<td width="62%" valign="top" align="left">
 
-<h3>
-Hey, I'm <b>Divyang Upreti</b> 👋
-</h3>
+<h2><b>Hey, I'm Divyang Upreti 👋</b></h2>
 
-<p>
+<p align="left">
 
-AI/ML Engineer • Full Stack Developer • Problem Solver
+<b>AI/ML Engineer</b> • <b>Full Stack Developer</b> • <b>Problem Solver</b>
 
 <br><br>
 
 Building intelligent software that solves real-world problems.
 
-Passionate about AI, scalable backend systems, modern web technologies and creating beautiful developer experiences.
+<br><br>
+
+Passionate about Artificial Intelligence, scalable backend systems,
+modern web technologies and creating beautiful developer experiences.
 
 <br><br>
 
-<b>Currently Exploring</b>
+<h3>🚀 Currently Exploring</h3>
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 LLMs • RAG • AI Agents
-- ⚡ Full Stack Engineering
-- ☁️ Cloud & DevOps
-- 🚀 Open Source
+• 🤖 Artificial Intelligence & Machine Learning <br>
+• 🧠 LLMs • RAG • AI Agents <br>
+• ⚡ Full Stack Engineering <br>
+• ☁️ Cloud & DevOps <br>
+• 🚀 Open Source
 
 </p>
 
