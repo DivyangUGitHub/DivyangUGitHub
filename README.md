@@ -155,7 +155,7 @@ hobbies:
 
 ```
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=A855F7&center=true&vCenter=true&width=900&lines=⚡+Divyang+Upreti's+Tech+Universe+⚡;AI+Developer+|+Full+Stack+Software+Engineer+|+Innovator;Hey+Welcome+to+my+GitHub+Dashboard!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=000000&center=true&vCenter=true&width=900&lines=⚡+Divyang+Upreti's+Tech+Universe+⚡;AI+Developer+|+Full+Stack+Software+Engineer+|+Innovator;Hey+Welcome+to+my+GitHub+Dashboard!" />
 </div>
 
 
@@ -165,19 +165,18 @@ hobbies:
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=fafafa&area=true&area_color=8b5cf6&hide_border=true" width="98%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=minimal&bg_color=ffffff&color=000000&line=333333&point=000000&area=true&area_color=e0e0e0&hide_border=true" width="98%">
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&layout=compact&theme=radical&bg_color=10,3f0071,000000&hide_border=true&title_color=ff00ff&text_color=f5d0ff&card_width=460" height="210px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&layout=compact&theme=graywhite&bg_color=ffffff&hide_border=true&title_color=000000&text_color=333333&card_width=460" height="210px"/>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyangUGitHub&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bc8cff&text_color=e8d9ff&icon_color=c084fc" style="border-radius:18px; animation: glow 2s infinite alternate;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyangUGitHub&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000" style="border-radius:18px;" />
 </div>
-
 
 
 
