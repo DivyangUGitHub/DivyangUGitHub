@@ -73,7 +73,7 @@ By night, you'll usually find me experimenting with AI, LLMs, RAG systems, Block
 
 <td width="38%" align="center" valign="top">
 
-<img src="pin-on-gambar-anime-hd-auto-.gif" width="330" alt="Anime GIF"/>
+<img src="galaxy-falling-stars-wuthering-waves-live-wallpape-hd-auto-.gif" width="330" alt="Anime GIF"/>
 
 </td>
 
