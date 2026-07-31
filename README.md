@@ -19,13 +19,8 @@
 </div> -->
 
  <div align="center">
-  <img src="cc01473e-7bab-4f0d-a1b5-b70db3461546.png" width="100%" height="300px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
+  <img src="unleash-your-creativity-start-creating-now-buraco--full-size.jpg" width="100%" height="320px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
-
-
-## 🌟 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 !
-I’m passionate about building **scalable AI systems**, engineering **real-time intelligent applications**, and pushing the boundaries of **modern software development**.  
-I love turning ideas into reality 🚀
 
 
 <!-- <h2>🧠 About Me</h2>
