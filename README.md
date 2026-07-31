@@ -19,7 +19,7 @@
 </div> -->
 
  <div align="center">
-  <img src="unleash-your-creativity-start-creating-now-buraco--full-size.jpg" width="100%" height="320px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
+  <img src="galaxy-falling-stars-wuthering-waves-live-wallpape-hd-auto-.gif" width="100%" height="350px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
 
 
@@ -61,50 +61,8 @@ By night, you'll usually find me experimenting with AI, LLMs, RAG systems, Block
 </tr>
 </table> -->
 
-<h1 align="center"><b>✦ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ✦</b></h1>
+<h1 align="center"><b>✦ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 & 𝐖𝐡𝐚𝐭 𝐃𝐫𝐢𝐯𝐞𝐬 𝐌𝐞 ✦</b></h1>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td width="38%" align="center" valign="top">
-
-<img src="galaxy-falling-stars-wuthering-waves-live-wallpape-hd-auto-.gif" width="330" alt="Anime GIF"/>
-
-</td>
-
-<td width="62%" valign="top" align="left">
-
-<h2><b>Hey, I'm Divyang Upreti 👋</b></h2>
-
-<p align="left">
-
-<b>AI/ML Engineer</b> • <b>Full Stack Developer</b> • <b>Problem Solver</b>
-
-<br><br>
-
-Building intelligent software that solves real-world problems.
-
-<br><br>
-
-Passionate about Artificial Intelligence, scalable backend systems,
-modern web technologies and creating beautiful developer experiences.
-
-<br><br>
-
-<h3>🚀 Currently Exploring</h3>
-
-• 🤖 Artificial Intelligence & Machine Learning <br>
-• 🧠 LLMs • RAG • AI Agents <br>
-• ⚡ Full Stack Engineering <br>
-• ☁️ Cloud & DevOps <br>
-• 🚀 Open Source
-
-</p>
-
-</td>
-
-</tr>
-</table>
 
 
 ## 👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 & 𝐖𝐡𝐚𝐭 𝐃𝐫𝐢𝐯𝐞𝐬 𝐌𝐞
