@@ -22,7 +22,9 @@
   <img src="galaxy-falling-stars-wuthering-waves-live-wallpape-hd-auto-.gif" width="100%" height="350px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg" width="100%">
+</p>
 <!-- <h2>🧠 About Me</h2>
 
 <table>
