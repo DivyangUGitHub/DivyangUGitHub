@@ -22,9 +22,7 @@
   <img src="galaxy-falling-stars-wuthering-waves-live-wallpape-hd-auto-.gif" width="100%" height="350px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg" width="100%">
-</p>
+
 <!-- <h2>🧠 About Me</h2>
 
 <table>
@@ -123,6 +121,9 @@ hobbies:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=minimal&bg_color=ffffff&color=000000&line=333333&point=000000&area=true&area_color=e0e0e0&hide_border=true" width="98%">
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg" width="100%">
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangUGitHub&layout=compact&theme=graywhite&bg_color=ffffff&hide_border=true&title_color=000000&text_color=333333&card_width=460" height="210px"/>
