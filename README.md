@@ -22,6 +22,22 @@
   <img src="galaxy-falling-stars-wuthering-waves-live-wallpape-hd-auto-.gif" width="100%" height="350px" alt="Banner GIF" style="filter: grayscale(100%); border-radius: 12px; margin: 10px 0; object-fit: cover;"/>
 </div>
 
+<!-- <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div> -->
+
+###
+
+<!-- <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture> -->
+
+
 
 <!-- <h2>🧠 About Me</h2>
 
@@ -118,9 +134,11 @@ hobbies:
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=minimal&bg_color=ffffff&color=000000&line=333333&point=000000&area=true&area_color=e0e0e0&hide_border=true" width="98%">
-</div>
 
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=DivyangUGitHub&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg" width="100%">
 </p>
@@ -133,6 +151,21 @@ hobbies:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DivyangUGitHub&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000" style="border-radius:18px;" />
 </div>
+<div data-importer="stats" align="center">
+  <!-- <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div> -->
+
+###
+
+<!-- <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DivyangUGitHub/DivyangUGitHub/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture> -->
+
 
 
 
